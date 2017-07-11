@@ -1,0 +1,21 @@
+{
+  "name": "naked-static-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --watch --progress --config webpack.config.js"
+  },
+  "author": "Gabrijel Skoro <gabrijel.skoro@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^2.29.0",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.13.1",
+    "webpack": "^3.1.0"
+  }
+}

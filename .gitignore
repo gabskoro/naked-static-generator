@@ -1,0 +1,7 @@
+# Files
+.DS_Store
+.vscode
+
+# Folders
+/node_modules
+/dist
